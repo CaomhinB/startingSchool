@@ -8,6 +8,7 @@ Stage 1: start screen through to the scrolling classroom.
 2. Type `npm install` and wait for it to finish (first time only).
 3. Type `npm run dev`.
 4. Open http://localhost:3000 in your browser.
+5. Live version at https://www.copingwithgrowing.com/play-starting-school.html
 
 ## Handy tricks
 
@@ -27,3 +28,8 @@ Stage 1: start screen through to the scrolling classroom.
 - `lib/scenes.ts` : scene order and the "Talk about it" prompts.
 
 Nothing about the child is saved or sent anywhere.
+
+## Deploy on Vercel
+The easiest way to deploy your Next.js app is to use the Vercel Platform from the creators of Next.js.
+
+Check out our Next.js deployment documentation for more details.
