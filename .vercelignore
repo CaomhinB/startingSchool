@@ -1,0 +1,4 @@
+# Big files the game does not use, so they are not uploaded.
+# Delete the line below if you ever switch the walk to school back to video.
+public/video
+_ref
